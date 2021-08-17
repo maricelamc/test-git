@@ -6,5 +6,6 @@ Repositorio prueba
 
 Ejercicios de git
 
-![](src/git_log.png)
-![](src/Network.png)
+![](src/git_log_2.png)
+
+![](src/Network_2.png)
